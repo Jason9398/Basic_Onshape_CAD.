@@ -63,7 +63,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence
 
 ### Image
-
+<img src="images/Fork.jpg" alt="The fork" width="200">
 ### Reflection
 
 ---
