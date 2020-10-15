@@ -48,7 +48,6 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Description
 
 ### Evidence
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/mount.jpg"width=100
 ### Reflection
 
 ---
@@ -65,7 +64,6 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Description
 
 ### Evidence
-<img src="images/Fork.jpg" alt="The fork" width="200">Screenshot 2020-10-01 at 2.42.00 PM
 ### Image
 
 ### Reflection
