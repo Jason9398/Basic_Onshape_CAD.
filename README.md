@@ -65,7 +65,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Evidence
 ### Image
-<img src=" width="500">
+<img src=" https://github.com/Jason9398/Basic_Onshape_CAD./blob/master/images/Fork.pngwidth="500">
 ### Reflection
 ### Reflection
 
