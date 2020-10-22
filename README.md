@@ -106,7 +106,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence
 
 ### Image
-
+<img src="https://github.com/Jason9398/Basic_Onshape_CAD./blob/master/images/Axle%2C%20Collar%2C%20Bearings.png" width="100">
 ### Reflection
 
 ---
