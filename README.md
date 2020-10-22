@@ -53,7 +53,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ---
 
 ### Image
-<img src="https://github.com/Jason9398/Basic_Onshape_CAD./blob/master/images/mount.png" width="500">
+<img src="https://github.com/Jason9398/Basic_Onshape_CAD./blob/master/images/mount.png" width="100">
 ### Reflection
 
 ---
@@ -65,7 +65,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Evidence
 ### Image
-<img src="https://github.com/Jason9398/Basic_Onshape_CAD./blob/master/images/Fork.png" width="500">
+<img src="https://github.com/Jason9398/Basic_Onshape_CAD./blob/master/images/Fork.png" width="100">
 ### Reflection
 ### Reflection
 
@@ -92,7 +92,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence
 
 ### Image
-
+<img src="https://github.com/Jason9398/Basic_Onshape_CAD./blob/master/images/wheel1.png" width="100">
 ### Reflection
 
 ---
