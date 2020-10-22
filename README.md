@@ -79,7 +79,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence
 
 ### Image
-
+<img src="https://github.com/Jason9398/Basic_Onshape_CAD./blob/master/images/Screenshot%202020-10-06%20at%202.01.05%20PM.png" width="100">
+### Reflection
 ### Reflection
 
 ---
